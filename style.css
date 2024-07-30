@@ -1,0 +1,33 @@
+.flex-container{
+    display: flex;
+    width: 40%;
+    height: auto;
+    margin-left: 50px;
+    align-items: center;
+
+}
+button{
+    font-size: 15px;
+    background-color:#dfdf03;
+    color: white;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+}
+button:hover{
+    background-color: black;
+    color :white;
+}
+img{
+    width: 200px;
+    height: 200px;
+    margin-top: 50px;
+    margin-left: 25px;
+    
+}
+.one{
+    display: flex;
+}
+.one h4{
+    margin-left: 10px;
+}
